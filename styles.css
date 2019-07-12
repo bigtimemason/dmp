@@ -413,7 +413,7 @@ div {
 .header {
     font-size: 100px;
   overflow: hidden;
-  background-color: #ba0000;
+  background-color: white;
   padding: 20px 10px;
 }
 
@@ -484,16 +484,16 @@ div {
 }
 
 .twitter {
-  background: #ba0000;
+  background: #F8931F;
   color: white;
 }
 
 .youtube {
-  background: #ba0000;
+  background: #F8931F;
   color: white;
 }
 .instagram {
-  background: #ba0000;
+  background: #F8931F;
   color: white;
 }
 
